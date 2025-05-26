@@ -1,0 +1,9 @@
+Repozitář je veřejný, a tak Tvůj projekt nebyl ohodnocen!
+
+Návod na změnu viditelnosti repozitáře:
+    1. Klikni na tlačítko "Settings", které je umístěno v horní části stránky repozitáře.
+    2. V sekci "Danger Zone" ve spodní části stránky najdi možnost "Change repository visibility".
+    3. Klikni na toto tlačítko a následně vyber "Change to private". 
+    4. Změnu potvrď kliknutím na tlačítko "I understand, change repository visibility".
+            
+Děkujeme. Tým ITnetwork.cz
